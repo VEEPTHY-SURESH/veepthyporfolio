@@ -354,6 +354,10 @@ img {
 
 /* portfolio end */
 
+#skills{
+    margin-top: -25px;
+}
+
 .cs {
     background-color: #fff;
     height: auto;
