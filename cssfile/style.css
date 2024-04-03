@@ -72,6 +72,7 @@ img {
     margin-top: 0.5rem;
     background-image: url(https://addons-media.operacdn.com/media/CACHE/images/themes/35/227835/1.0-rev1/images/15180406ab9a4ed08754ac5ee4079f54/d0d7668ce658c8a3ac408d2d7c787c88.jpg);
     background-position: center;
+    background-repeat: no-repeat;
     width: 97%;
     height: 43rem;
     border-radius: 1rem;
